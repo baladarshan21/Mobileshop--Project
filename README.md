@@ -27,16 +27,38 @@ Easy Deployment & Setup
 
 Can be run locally by simply opening the index.html file in a web browser.
 ![Screenshot 2025-02-10 113339](https://github.com/user-attachments/assets/aacaf5b4-71e7-4457-9d2c-cc55c480405c)
+
+
 ![Screenshot 2025-02-10 113403](https://github.com/user-attachments/assets/e0709513-9cdb-42c9-84af-f53ed495d165)
+
+
 ![Screenshot 2025-02-10 113423](https://github.com/user-attachments/assets/3cad71a1-9f03-48a8-931f-99fc988a170f)
+
+
 ![Screenshot 2025-02-10 113436](https://github.com/user-attachments/assets/0a188ce0-3fd1-43fc-ade8-7003d4d3a76d)
+
+
 ![Screenshot 2025-02-10 113453](https://github.com/user-attachments/assets/c878dc54-2545-4937-8fd3-0fc2de535d0f)
+
+
 ![Screenshot 2025-02-10 113505](https://github.com/user-attachments/assets/b42e6c07-3a2c-4173-b053-df4d6a97cba1)
+
+
 ![Screenshot 2025-02-10 113519](https://github.com/user-attachments/assets/f63557af-0d8b-4487-89ed-acc970da2c5e)
+
+
 ![Screenshot 2025-02-10 113539](https://github.com/user-attachments/assets/85297954-e066-4e34-a4e6-6e00eb1ef3b0)
+
+
 ![Screenshot 2025-02-10 113554](https://github.com/user-attachments/assets/cc66a442-da49-4cef-8993-b942a54eb6a6)
+
+
 ![Screenshot 2025-02-10 113620](https://github.com/user-attachments/assets/93e9ab02-6644-4916-a029-fdf8776eed36)
+
+
 ![Screenshot 2025-02-10 113647](https://github.com/user-attachments/assets/da3d9932-b2d6-4015-9fd5-107979befe50)
+
+
 ![Screenshot 2025-02-10 113721](https://github.com/user-attachments/assets/eef4e494-9d82-425e-8024-cf6c2c84b109)
 
 
